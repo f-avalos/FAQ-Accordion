@@ -32,7 +32,7 @@ La particularidad del desafío es la no necesidad de utilizar JavaScript para la
 
 ### Links
 
-- Sitio: [-](#)
+- Sitio: [Sección de preguntas frecuentes](https://f-avalos.github.io/FAQ-Accordion/)
 
 ## Proceso
 
